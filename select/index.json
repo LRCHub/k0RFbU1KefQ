@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "醒めない夢の微睡みの",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T08:10:11.507277Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "醒めない夢の微睡みの (feat. Lucia)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_醒めない夢の微睡みの_(feat._Lucia)_未来古代楽団.txt"
+    }
+  ]
+}
